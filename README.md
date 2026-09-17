@@ -1,4 +1,4 @@
-# Simulation of Left Ventricular Dysfunction Mechanisms via Pressure–Volume and Transmitral Flow Analysis Using the CircAdapt Lumped-Parameter Model
+## Simulation of Left Ventricular Dysfunction Mechanisms via Pressure–Volume and Transmitral Flow Analysis Using the CircAdapt Lumped-Parameter Model
 
 > **A computational cardiovascular modelling study isolating three independent mechanisms of left ventricular dysfunction and quantifying their hemodynamic effects through pressure–volume loop and transmitral flow analysis.**
 
